@@ -35,4 +35,4 @@ The database is in the file **[db.json](db.json)**. You can edit the JSON inform
 
 ## HTTP Requests & Endpoints
 
-Refer to the [json-server documentation](https://github.com/typicode/json-server) for how to use your API.
+Refer to the [json-server documentation](https://www.npmjs.com/package/json-server) for how to use your API.
